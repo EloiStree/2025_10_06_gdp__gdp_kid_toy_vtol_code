@@ -1,6 +1,7 @@
 # Kid Toy VTOL 
 
 VTOL kid toy for XR and coding workshop. 
+VTOL: vertical take-off and landing
 
 I coded differnet kid toy drone in the past for Unity3D.  
 This one ;) I like it.  
